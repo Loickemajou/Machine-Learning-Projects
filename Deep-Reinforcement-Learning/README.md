@@ -26,10 +26,10 @@ The agent successfully learns to land with an average score > 200 after ~500 epi
 - Python  
 - PyTorch  
 - NumPy  
-- Matplotlib  
+- Matplotlib 
 - OpenAI Gym
 
 ---
 
 ## 🔗 View Notebook
-[Open in nbviewer](https://nbviewer.org/github/yourusername/machine-learning-projects/blob/main/deep-q-lunar-lander/Deep_Q_Learning_for_Lunar_Landing_Complete.ipynb)
+[Open in nbviewer](https://nbviewer.org/github.com/Loickemajou/Machine-Learning-Projects/blob/main/Deep-Reinforcement-Learning/Deep_Q_Learning_for_Lunar_Landing_Complete.ipynb)

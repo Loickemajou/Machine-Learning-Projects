@@ -19,7 +19,7 @@ This project implements a **Deep Q-Network (DQN)** to train an agent to land a l
 
 ## 🧩 Results
 The agent successfully learns to land with an average score > 200 after ~500 episodes.
-![Lunar Lander Result](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Deep-Reinforcement-Learning/lunar_landing.mp4))
+![Lunar Lander Result](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Deep-Reinforcement-Learning/demo.gif))
 
 
 ---

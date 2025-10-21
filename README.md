@@ -43,4 +43,4 @@ Classified csv file contraining features of microcalcification for  breast cance
 ### 6️⃣ [Pneunomia Classification](./Pneunomia classification)
 Classified x_ray images of lung tissue using resnet50 for pneunomia classification.  
 📘 **Tech:** Python, pytorch
-[🔗 View Notebook on nbviewer(https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Pneunomia%20classification/Pneumonia_classification.ipynb)
+[🔗 View Notebook on nbviewer](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Pneunomia%20classification/Pneumonia_classification.ipynb)

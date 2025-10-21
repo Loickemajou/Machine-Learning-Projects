@@ -49,7 +49,5 @@ The goal of this project is to provide an automated tool for detecting pneumonia
 ### 💬 Summary
 This project demonstrates how deep learning, CNNs, and CAMs can be used to analyze medical images for pneumonia detection. It’s a practical example of AI applied to healthcare, combining image processing, model training, explainability, and evaluation in a single PyTorch workflow.
 
-**Example Result:**  
-![Pneumonia Classification Result](PUT_YOUR_PNG_LINK_HERE)
 
 Developed using **PyTorch** and **Python**.

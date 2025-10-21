@@ -4,7 +4,7 @@ A deep learning project that uses **Convolutional Neural Networks (CNNs)** to de
 ---
 
 ### Overview
-The notebook `pneumonia_resnet50.ipynb` walks through a complete image classification pipeline for medical imaging. It reads chest X-ray images, preprocesses and augments the data, and trains a **ResNet-50** model to classify images as **Pneumonia** or **Normal**.
+The notebook  walks through a complete image classification pipeline for medical imaging. It reads chest X-ray images, preprocesses and augments the data, and trains a **ResNet-50** model to classify images as **Pneumonia** or **Normal**.
 
 ---
 

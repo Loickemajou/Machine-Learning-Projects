@@ -9,7 +9,7 @@ Each folder contains a Jupyter notebook and detailed README describing the proje
 
 ### 1️⃣ [Deep Learning Project (Final)](./deep-learning-project-final)
 Trained and evaluated multiple deep learning architectures on image data.  
-📘 **Tech:** Python, TensorFlow, Keras  
+📘 **Tech:** Python, pytorch 
 [🔗 View Notebook on nbviewer](https://nbviewer.org/github/yourusername/machine-learning-projects/blob/main/deep-learning-project-final/Deep_Learning_project_final.ipynb)
 
 ---
@@ -36,6 +36,11 @@ Explored supervised feature-based machine learning models for classification tas
 ---
 
 ### 5️⃣ [Breast Cancer Classification](./breast-cancer-classification)
-Classified microscopic images of breast cancer tissue using CNNs.  
-📘 **Tech:** Python, TensorFlow, Keras  
+Classified csv file contraining features of microcalcification for  breast cancer detection  tissue using CNNs.  
+📘 **Tech:** Python, scikit-learn, pandas
 [🔗 View Notebook on nbviewer](https://nbviewer.org/github/yourusername/machine-learning-projects/blob/main/breast-cancer-classification/classifying%20individual%20micros.ipynb)
+
+### 6️⃣ [Pneunomia Classification](./Pneunomia classification)
+Classified x_ray images of lung tissue using resnet50 for pneunomia classification.  
+📘 **Tech:** Python, pytorch
+[🔗 View Notebook on nbviewer(https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Pneunomia%20classification/Pneumonia_classification.ipynb)

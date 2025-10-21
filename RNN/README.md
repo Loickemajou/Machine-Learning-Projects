@@ -6,16 +6,6 @@ Built using **TensorFlow/Keras**, this notebook demonstrates how text data can b
 
 ---
 
-##  Table of Contents
-
-* [Overview](#overview)
-* [Project Workflow](#project-workflow)
-* [Objective](#objective)
-* [Key Features](#key-features)
-* [Summary](#summary)
-
----
-
 ##  Overview
 
 The notebook `13bd7ca3-050c-407e-813a-4e0faa1a6d90.ipynb` walks through a complete NLP pipeline for medical data.

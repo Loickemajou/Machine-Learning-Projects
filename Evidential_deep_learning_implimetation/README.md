@@ -47,3 +47,6 @@ for epoch in range(10):
 
 
 ## Visualisation
+https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/images/image_evd.png
+Uncertainty under rotation
+https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/images/uncertainty.png

@@ -40,7 +40,12 @@ Classified csv file contraining features of microcalcification for  breast cance
 📘 **Tech:** Python, scikit-learn, pandas
 [🔗 View Notebook on nbviewer](https://nbviewer.org/github/yourusername/machine-learning-projects/blob/main/breast-cancer-classification/classifying%20individual%20micros.ipynb)
 
-### 6️⃣ [Pneunomia Classification](./Pneunomia classification)
-Classified x_ray images of lung tissue using resnet50 for pneunomia classification.  
-📘 **Tech:** Python, pytorch
-[🔗 View Notebook on nbviewer](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Pneunomia%20classification/Pneumonia_classification.ipynb)
+---
+
+### 7️⃣ Evidential Deep Learning
+
+Implemented a LeNet-based model on the MNIST dataset to estimate prediction uncertainty using Evidential Deep Learning with a Dirichlet output layer based on [teddykoker_repository](https://github.com/teddykoker/evidential-learning-pytorch/blob/main/examples/mnist.py).
+📘 Tech: Python, PyTorch, uncertainty estimation
+🔗 [View Notebook on nbviewer](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/evidential_deep_learning.py)
+
+

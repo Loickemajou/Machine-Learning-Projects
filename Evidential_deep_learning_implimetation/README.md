@@ -42,7 +42,7 @@ Training and testing functions report both **loss** and **accuracy** per epoch.
 
 
 ## Visualisation
-https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/images/image_evd.png
+![rotation classification](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/images/image_evd.png)
 Uncertainty under rotation
-https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/images/uncertainty.png
+![uncertainty](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/images/uncertainty.png)
 

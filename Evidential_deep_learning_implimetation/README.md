@@ -44,9 +44,10 @@ for epoch in range(10):
     L_train = training(lenet, training_loader, optimizer, device, epoch)
     acc_test = testing(lenet, test_loader, device)
     print(f"Epoch {epoch}/10, training loss: {L_train:.3f}, accuracy: {acc_test:.3f}")
-
+'''
 
 ## Visualisation
 https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/images/image_evd.png
 Uncertainty under rotation
 https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/images/uncertainty.png
+

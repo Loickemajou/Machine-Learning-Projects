@@ -46,6 +46,6 @@ Classified csv file contraining features of microcalcification for  breast cance
 
 Implemented a LeNet-based model on the MNIST dataset to estimate prediction uncertainty using Evidential Deep Learning with a Dirichlet output layer based on [teddykoker_repository](https://github.com/teddykoker/evidential-learning-pytorch/blob/main/examples/mnist.py).
 📘 Tech: Python, PyTorch, uncertainty estimation
-🔗 [View Notebook on nbviewer](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/evidential_deep_learning.py)
+🔗 [View Notebook on nbviewer](https://github.com/Loickemajou/Machine-Learning-Projects/blob/main/Evidential_deep_learning_implimetation/evidential_deep_learning.ipynb)
 
 
